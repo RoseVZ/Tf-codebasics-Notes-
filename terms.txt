@@ -1,0 +1,2 @@
+Precision : Out of all predictions of 'x' how many are predicted rightly
+Recall : How many out of the total actual values of 'x', you predicted right?
